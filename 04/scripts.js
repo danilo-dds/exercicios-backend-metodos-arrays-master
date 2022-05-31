@@ -14,4 +14,3 @@ atendimento(pacientes, 'atender');
 atendimento(pacientes, 'atender');
 atendimento(pacientes, 'agendar', 'Danilo');
 atendimento(pacientes, 'atender');
-
